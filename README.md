@@ -3,7 +3,7 @@
 
 Con este repositorio puedes listas la películas más populares del momento, presionar la que te parezca interesante y "descargarla para ver después" también puedes buscar entre las películas y visualizar la que tengas en mente.
 
-## Features
+## Funciones
 
 - Visualización de la películas del momento
 - Posibilidad de marcarlas para "Descargar"
@@ -17,11 +17,11 @@ Aplicación frontent (que consume) datos a mediante una api rest, hace solicitud
 
 - Swift
 
-## Installation
+## Instalación
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+Netflix app requiere Xcode v14+ para compilar.
 
-## Screens
+## Pantallas
 
 <p align="center">
   <a href="https://github.com/deriannavy">
